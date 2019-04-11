@@ -19,6 +19,7 @@ class App extends Component {
           >
             Learn How To Dance With A Cat
           </a>
+          <strong>HOOBLYBOOBLY!</strong>
         </header>
       </div>
     );
