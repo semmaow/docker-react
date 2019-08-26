@@ -17,7 +17,7 @@ class App extends Component {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Learn How To Dance With A Cat
+            Dances With Cats
           </a>
           <strong>HOOBLYBOOBLY!</strong>
         </header>
